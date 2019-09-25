@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1245ae16-a98c-47fe-a158-193472b4dfd5" name="Default Changelist" comment="" />
+    <list default="true" id="1245ae16-a98c-47fe-a158-193472b4dfd5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1.Scrapy to Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Scrapy to Dict.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1.Scrapy to Dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1632">
-              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            <state relative-caret-position="144">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
                 <element signature="e#2#32#0" expanded="true" />
               </folding>
@@ -55,7 +57,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Technologies" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,10 +66,11 @@
         <option value="$PROJECT_DIR$/将MongoDB数据导出为Excel.py" />
         <option value="$PROJECT_DIR$/2.将MongoDB数据导出为Excel.py" />
         <option value="$PROJECT_DIR$/1.爬取数据为字典列表.py" />
+        <option value="$PROJECT_DIR$/1.Scrapy to Dict.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="959" />
     <option name="height" value="1047" />
@@ -174,12 +177,12 @@
       <updated>1569115207090</updated>
       <workItem from="1569115208263" duration="20787000" />
       <workItem from="1569332133804" duration="4800000" />
-      <workItem from="1569412931642" duration="380000" />
+      <workItem from="1569412931642" duration="688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25967000" />
+    <option name="totallyTimeSpent" value="26275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -225,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.Scrapy to Dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="144">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
             <element signature="e#2#32#0" expanded="true" />
           </folding>
